@@ -1,0 +1,14 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class Main {
+    
+
+    public static void main(String args[]) 
+    {
+        Scanner scan = new Scanner(Sytem.in); 
+        
+        
+    } 
+    
+}

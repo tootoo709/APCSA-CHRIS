@@ -8,7 +8,7 @@
 Please input a decimal number:
 57.8934
 Answer: 57
-
+// 26 minutues 
 */
 
 import java.util.Scanner;
@@ -42,6 +42,7 @@ class Lesson_6_Activity_Two
         double weightedFocus = (0.3 * averageFocus) ;       
         double weightedCritic = (0.5 * averageCritic) ;
         double weightedAverage = (weightedWebsite + weightedFocus + weightedCritic); 
+        System.out.println("Overall movie rating: " + weightedAverage); 
 
         
         

@@ -42,6 +42,7 @@ class Lesson_6_Activity_Two
         double weightedFocus = (0.3 * averageFocus) ;       
         double weightedCritic = (0.5 * averageCritic) ;
         double weightedAverage = (weightedWebsite + weightedFocus + weightedCritic); 
+        System.out.println(weightedAverage); 
 
         
         
